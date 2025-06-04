@@ -34,13 +34,7 @@ This project is a **visual piano keyboard** built entirely with **HTML** and **C
 
 ## 📸 Screenshots
 
-### Desktop View
-![Desktop Screenshot](https://github.com/rohnroy0/piano-image/raw/main/screenshots/desktop.png)
-
-### Mobile View
-![Mobile Screenshot](https://github.com/rohnroy0/piano-image/raw/main/screenshots/mobile.png)
-
-> Make sure you upload screenshots inside a `screenshots/` folder in your repo and update the paths above.
+[](https://github.com/rohnroy0/piano-image/blob/main/preview05.png?raw=true)
 
 ---
 

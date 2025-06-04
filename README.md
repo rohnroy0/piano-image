@@ -34,7 +34,7 @@ This project is a **visual piano keyboard** built entirely with **HTML** and **C
 
 ## 📸 Screenshots
 
-[](https://github.com/rohnroy0/piano-image/blob/main/preview05.png?raw=true)
+![](https://github.com/rohnroy0/piano-image/blob/main/preview05.png?raw=true)
 
 ---
 
